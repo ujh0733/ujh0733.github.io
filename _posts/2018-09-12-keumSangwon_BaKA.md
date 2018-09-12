@@ -8,4 +8,4 @@ data: 2018-09-12 20:03
 
 ![_config.yml]({{ site.baseurl }}/images/KakaoTalk_20180912_171442455.jpg)
 
-너무 귀여워서 햝아 주고 
+너무 귀여워서 햝아 주고 싶어
