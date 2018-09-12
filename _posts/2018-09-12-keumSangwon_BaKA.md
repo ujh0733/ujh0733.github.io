@@ -4,8 +4,8 @@ title: "금상원 병신"
 data: 2018-09-12 20:03
 ---
 
-Next you can update your site name, avatar and other options using the _config.yml file in the root of your repository (shown below).
+귀여운 우리 갓파 상원짱
 
 ![_config.yml]({{ site.baseurl }}/images/config.png)
 
-The easiest way to make your first post is to edit this one. Go into /_posts/ and update the Hello World markdown file. For more instructions head over to the [Jekyll Now repository](https://github.com/barryclark/jekyll-now) on GitHub.
+너무 귀여워서 햝아 주고 
